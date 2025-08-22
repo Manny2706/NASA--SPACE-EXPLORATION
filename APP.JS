@@ -41,7 +41,7 @@ console.log(url)
      
     } 
 
- title.classList.remove('hidden');
+ title.classList.remove('hidden title-error');
 desc.classList.remove('hidden');
   } catch (err) {
     console.error(err);
